@@ -9,6 +9,12 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
+## Description
+
+```
+An application that an employee/user can use to generate a random password based on criteria they've selected and is also a strong password that provides greater security.
+```
+
 ## Acceptance Criteria
 
 ```
@@ -28,3 +34,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## Screenshot
+
+[image](https://github.com/shumaela/sh-password-generator/assets/147661185/df73c99b-71e2-4cfe-b045-f0b378dadba4)
