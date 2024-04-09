@@ -37,4 +37,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot
 
-[image](https://github.com/shumaela/sh-password-generator/assets/147661185/df73c99b-71e2-4cfe-b045-f0b378dadba4)
+[Password-Generator](https://github.com/shumaela/sh-password-generator/assets/147661185/df73c99b-71e2-4cfe-b045-f0b378dadba4)
